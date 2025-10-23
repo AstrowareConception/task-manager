@@ -40,7 +40,9 @@ Pas besoin de débogueur pour ce TP :
 Vous saurez que le TP est réussi quand :
 
 ✔️ toutes les commandes du README s’exécutent **sans la moindre erreur**
+
 ✔️ le programme se comporte **comme attendu**
+
 ✔️ vous pouvez expliquer **au moins 5 bugs trouvés** et leur correction
 
 ---
