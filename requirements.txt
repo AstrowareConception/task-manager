@@ -1,0 +1,4 @@
+# Task Management System Dependencies
+
+# No external dependencies required for basic functionality
+# The application uses only standard library modules
