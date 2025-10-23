@@ -43,7 +43,7 @@ Vous saurez que le TP est réussi quand :
 
 ✔️ le programme se comporte **comme attendu**
 
-✔️ vous pouvez expliquer **au moins 5 bugs trouvés** et leur correction
+✔️ vous pouvez expliquer **les 10 bugs trouvés** et leur correction
 
 ---
 
